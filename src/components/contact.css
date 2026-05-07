@@ -17,7 +17,7 @@
 /* Title */
 .contact-title {
   font-size: 40px;
-  margin-bottom: 10px;
+  margin-bottom: 1px;
   color: #22c55e;
   letter-spacing: 2px;
 }
@@ -26,7 +26,8 @@
 .contact-container {
   display: flex;
   justify-content: center;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
+ 
 }
 
 /* Info box */

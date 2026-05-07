@@ -41,13 +41,13 @@ function Projects() {
 ];
 
   return (
-    <section className="projects-section">
+    <section className="projects-section" >
 
       <h1 className="projects-title">
         My <span className="gradient-text">Projects</span>
       </h1>
 
-      <div className="projects-container">
+      <div className="projects-container" data-aos="fade-up">
         {projects.map((project, index) => (
           <div key={index} className="project-card">
 

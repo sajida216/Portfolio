@@ -5,10 +5,10 @@ function Navbar() {
     <nav className="navbar">
       <div className="logo">
         {/* <div className="circle">S</div> */}
-        <div>
-          <h3 className="name">Ayishath Sajidha</h3>
-          <p style={{fontWeight:"bold"}}>MERN DEVELOPER</p>
-        </div>
+        <div className="my-name">
+          <h3 >Ayishath Sajidha</h3>
+          <p  style={{fontWeight:"bold"}}>MERN STACK DEVELOPER</p>
+          </div>
       </div>
 
       <div className="nav-links">

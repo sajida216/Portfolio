@@ -16,7 +16,7 @@ function Skills() {
   ];
 
   return (
-    <section className="skills-section">
+    <section className="skills-section" >
 
       <div className="skills-title">
         <span>Skills</span>

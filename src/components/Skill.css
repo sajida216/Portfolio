@@ -47,7 +47,13 @@
 
 .slide-track {
   display: flex;
-  animation: scroll 6s linear infinite;
+  animation: scroll 5s linear infinite;
+}
+@media(max-width:768px){
+  .slide-trac{
+    display: flex;
+     animation: scroll 2s linear infinite;
+  } 
 }
 
 .slider:hover .slide-track {

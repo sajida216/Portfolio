@@ -7,7 +7,7 @@ import Contact from "./Contact";
 function Hero() {
   return (
     <div>
-    <section className="hero">
+    <section className="hero" data-aos="fade-left">
 
       <div className="badge">FULL STACK DEVELOPER</div>
 
