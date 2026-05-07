@@ -18,7 +18,7 @@ function Hero() {
       </h1>
 
       <p>
-        Hi, I'm <b>Sajidha</b>. I craft high-performance MERN applications with 
+        Hi, I'm  <b> Sajidha</b>. I craft high-performance MERN applications with 
         <span className="blue"> scalable architectures</span> and 
         <span className="purple"> stunning interfaces</span>.
       </p>

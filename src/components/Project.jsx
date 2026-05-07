@@ -13,7 +13,12 @@ function Projects() {
     img: "/eqpment.jpg",
     link: "https://github.com/sajida216/Project"
   },
-
+  {
+    title: "Expense Tracker",
+    desc: "A responsive frontend expense tracker application that helps users manage daily expenses, track spending, and view financial records through a clean and user-friendly interface.",
+    img: "/expence_traker.png",
+    link: "https://expense-tracker-umber-omega-54.vercel.app/"
+  },
   {
     title: "MYG App",
     desc: "A modern React-based application designed with user-friendly UI components, focusing on responsive design and smooth navigation experience.",
